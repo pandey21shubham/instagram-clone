@@ -1,2 +1,2 @@
 # instagram-clone
-This is insa clone.
+This is insta clone.
